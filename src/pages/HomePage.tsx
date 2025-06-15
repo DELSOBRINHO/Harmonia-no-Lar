@@ -39,7 +39,7 @@
         </div>
         
         <div className="card">
-          <h3 className="text-lg font-semibold mb-2"> Orçamento</h3>
+          <h3 className="text-lg font-semibold mb-2"> Orçamento Doméstico</h3>
           <p className="text-gray-600">
             Controle financeiro familiar com categorização de receitas e despesas para uma administração sábia.
           </p>
