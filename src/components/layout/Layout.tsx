@@ -39,7 +39,7 @@ export default function Layout({ children }: LayoutProps) {
               </Link>
               <Link to="/budget" className="flex items-center px-3 py-2 rounded-md hover:bg-primary-700">
                 <DollarSign className="h-4 w-4 mr-1" />
-                Orçamento
+                Orçamento Familiar
               </Link>
               <Link to="/tips" className="flex items-center px-3 py-2 rounded-md hover:bg-primary-700">
                 <Lightbulb className="h-4 w-4 mr-1" />
